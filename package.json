@@ -6,6 +6,6 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa build UX221Lab3LandingPages"
+    "build": "wp-pwa build UX221Lab3Landingpages"
   }
 }
